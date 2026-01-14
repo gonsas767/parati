@@ -97,8 +97,8 @@ body.page2 {
 }
 
 .characters img {
-    max-width: 120px;    /* largura máxima */
-    max-height: 120px;   /* altura máxima */
+    max-width: 280px;    /* largura máxima */
+    max-height: 280px;   /* altura máxima */
     object-fit: contain;
 }
 
@@ -210,7 +210,7 @@ body.page2 {
 }
 .message3 {
     position: absolute;
-    top: 80%;           /* ajusta para subir o texto */
+    top: 75%;           /* ajusta para subir o texto */
     left: 50%;
     transform: translateX(-50%);
     width: 80%;
@@ -260,4 +260,5 @@ body.index {
     background-position: top left;
     background-size: 40px 40px;
     box-sizing: border-box;
+
 }
